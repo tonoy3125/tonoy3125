@@ -20,7 +20,10 @@
 
 ## 📈 Current Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tonoy3125&theme=monokai)](https://git.io/streak-stats)
+<br />
+<p align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=tonoy3125&theme=prussian" />
+</p>
 
 
 <div align="center">
