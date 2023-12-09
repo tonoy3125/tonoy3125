@@ -20,11 +20,11 @@
 
 ## 📈 Current Stats
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=tonoy3125&theme=monokai&card_width=610)](https://git.io/streak-stats)
 
-<div align="center">
+
+<div>
     <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonoy3125&theme=darcula" alt="Profile Details"></p>
-    </br>
-    <p style="display: flex; justify-content: space-between; gap: 10px; width: 100%;"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tonoy3125&theme=darcula" alt="Repos per Language"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tonoy3125&theme=darcula" alt="Most Commit Language"></p>
     </br>
     <p style="display: flex; justify-content: space-between; gap: 10px; width: 100%;"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tonoy3125&theme=darcula" alt="Stats"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tonoy3125&theme=darcula&utcOffset=8" alt="Productive Time"></p>
 </div>
