@@ -3,8 +3,11 @@
 <img src="https://i.ibb.co/Bzz6LqY/Cover-4.png" style="width: 100%; height: 100%;  object-fit: cover;" />
 </a>
 
+## ❇️ Objective
 
-## Current Overview
+I specialize in web development, utilizing HTML, CSS, and JavaScript to create interactive and visually appealing user interfaces. My expertise extends to React for building dynamic web applications. I work with MongoDB and Firebase for effective data management and serverless application development, ensuring seamless and efficient online experiences.
+
+## 📖 Current Overview
 
 - 🔭 I’m working - In Unidove Group as stock Management System
 
