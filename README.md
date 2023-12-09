@@ -22,7 +22,7 @@
 
 <br />
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=tonoy3125&theme=prussian" />
+  <img width="80%" src="https://streak-stats.demolab.com?user=tonoy3125&theme=prussian" />
 </p>
 
 
