@@ -1,5 +1,7 @@
 
-[![An old rock in the desert](https://i.ibb.co/5v9G6Fw/Cover.png )](https://www.linkedin.com/in/shaif-shajed-tonoy-17356121a/)
+<a href="https://www.linkedin.com/in/shaif-shajed-tonoy-17356121a/">
+<img src="https://i.ibb.co/5v9G6Fw/Cover.png" style="width: 100%; height: 100%;  object-fit: cover;" />
+</a>
 
 
 ## Current Overview
