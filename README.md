@@ -33,6 +33,16 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://i.ibb.co/tm2MGrm/Linkedin.png">](https://www.linkedin.com/in/shaif-shajed-tonoy-17356121a/)[<img height="75" src="https://i.ibb.co/TwFZJy8/Facebook.png">](https://www.facebook.com/mdshaifshajed.tonoy)[<img height="75" src="https://i.ibb.co/KsKttKj/Twitter.png"> </p>]()
+<p align="center">
+  <a href="https://www.linkedin.com/in/shaif-shajed-tonoy-17356121a/" target="_blank">
+    <img height="75" src="https://i.ibb.co/tm2MGrm/Linkedin.png" alt="LinkedIn">
+  </a>
+  <a href="https://www.facebook.com/mdshaifshajed.tonoy" target="_blank">
+    <img height="75" src="https://i.ibb.co/TwFZJy8/Facebook.png" alt="Facebook">
+  </a>
+  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+    <img height="75" src="https://i.ibb.co/KsKttKj/Twitter.png" alt="Twitter">
+  </a>
+</p>
 
 <br />
