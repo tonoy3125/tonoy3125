@@ -46,3 +46,24 @@
 </p>
 
 <br />
+
+## 💻 Technologies that I know
+
+<br>
+<p align="center">
+<img src="https://i.ibb.co/wdMtRZT/HTML.png"/>
+<img src="https://i.ibb.co/Vx93ZQt/css.png"/>
+<img src="https://i.ibb.co/gmX3Mg5/Java-Script.png"/>
+
+</p>
+<p align="center">
+<img src="https://i.ibb.co/XYZggsC/react.png"/>
+<img src="https://i.ibb.co/Rh2HWbM/tailwind.png"/>
+<img src="https://i.ibb.co/3yVygk3/Bootsrap.png"/>
+<img src="https://i.ibb.co/X8Td3ks/firebase.png"/>
+</p>
+<p align="center">
+<img src="https://i.ibb.co/6sGT2RG/node.png"/>
+<img src="https://i.ibb.co/7yY2x5m/express.png"/>
+<img src="https://i.ibb.co/PjGrXS6/mongo.png"/>
+</p><br/>
