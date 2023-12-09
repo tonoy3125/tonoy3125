@@ -1,5 +1,5 @@
 
-[![An old rock in the desert](https://i.ibb.co/5v9G6Fw/Cover.png "Shiprock, New Mexico by Beau Rogers")](https://www.linkedin.com/in/shaif-shajed-tonoy-17356121a/)
+[![An old rock in the desert](https://i.ibb.co/5v9G6Fw/Cover.png )](https://www.linkedin.com/in/shaif-shajed-tonoy-17356121a/)
 
 
 ## Current Overview
