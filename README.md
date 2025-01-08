@@ -17,13 +17,9 @@ I specialize in web development, using HTML, CSS, and JavaScript to create engag
 
 - 🤔 I’m looking for help with improving backend skills in DBMS, SQL, PostgreSQL, and Prisma for better database management.
 
-- 👨‍💻 All of my projects are available at <a href="https://shaif-shajed-tonoy-portfolio.vercel.app/">
-<ins>My PortFolio</ins>
-</a>
+- 👨‍💻 All of my projects are available at [My PortFolio](https://shaif-shajed-tonoy-portfolio.vercel.app/)
 
-- 📫 I regularly write articles on <a href="https://medium.com/@shaifshajedt">
-<ins>Medium</ins>
-</a>
+- 📫 I regularly write articles on [Medium](https://medium.com/@shaifshajedt)
 
 - 📫 I’m Exploring - Innovative ways to blend design functionality in web development
 
