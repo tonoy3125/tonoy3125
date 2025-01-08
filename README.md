@@ -5,7 +5,7 @@
 
 ## ❇️ Objective
 
-I specialize in web development, utilizing HTML, CSS, and JavaScript to create interactive and visually appealing user interfaces. My expertise extends to React for building dynamic web applications. I work with MongoDB and Firebase for effective data management and serverless application development, ensuring seamless and efficient online experiences.
+I specialize in web development, using HTML, CSS, and JavaScript to create engaging and interactive user interfaces. I have expertise in React for building dynamic web applications and use TypeScript to ensure type safety. I work with Redux for state management, Next.js for server-side rendering, and MongoDB, Firebase, SQL, PostgreSQL, and Prisma for effective data management and database handling. My focus is on creating simple, efficient, and seamless online experiences.
 
 ## 📖 Current Overview
 
@@ -19,6 +19,10 @@ I specialize in web development, utilizing HTML, CSS, and JavaScript to create i
 
 - 👨‍💻 All of my projects are available at <a href="https://shaif-shajed-tonoy-portfolio.vercel.app/">
 <ins>My PortFolio</ins>
+</a>
+
+- 📫 I regularly write articles on <a href="https://medium.com/@shaifshajedt">
+<ins>Medium</ins>
 </a>
 
 - 📫 I’m Exploring - Innovative ways to blend design functionality in web development
