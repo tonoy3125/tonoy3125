@@ -15,7 +15,11 @@ I specialize in web development, utilizing HTML, CSS, and JavaScript to create i
 
 - 👯 I’m looking - To collaborate on open source projects
 
-- 🤔 I’m looking for help with improving my skills in backend development and data handling for DBMS, SQL, PostgreSQL, and Prisma for better database management and efficiency.
+- 🤔 I’m looking for help with improving backend skills in DBMS, SQL, PostgreSQL, and Prisma for better database management.
+
+- 👨‍💻 All of my projects are available at <a href="https://shaif-shajed-tonoy-portfolio.vercel.app/">
+<ins>My PortFolio</ins>
+</a>
 
 - 📫 I’m Exploring - Innovative ways to blend design functionality in web development
 
