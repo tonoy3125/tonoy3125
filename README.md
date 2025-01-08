@@ -9,13 +9,13 @@ I specialize in web development, utilizing HTML, CSS, and JavaScript to create i
 
 ## 📖 Current Overview
 
-- 🔭 I’m working - In Unidove Group as stock Management System
+- 🔭 I’m working - In Kudzu Infotech as Junior Full Stack Developer
 
-- 🌱 I’m currently learning - Next.js to build dynamic React applications
+- 🌱 I’m currently learning - DBMS, SQL, PostgreSQL, and Prisma to improve data management and backend development skills
 
 - 👯 I’m looking - To collaborate on open source projects
 
-- 🤔 I’m looking for help with Next.js performance and React state management
+- 🤔 I’m looking for help with improving my skills in backend development and data handling for DBMS, SQL, PostgreSQL, and Prisma for better database management and efficiency.
 
 - 📫 I’m Exploring - Innovative ways to blend design functionality in web development
 
