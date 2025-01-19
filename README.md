@@ -1,6 +1,6 @@
 
 <a href="https://www.linkedin.com/in/shaif-shajed-tonoy-17356121a/">
-<img src="https://i.ibb.co/Bzz6LqY/Cover-4.png" style="width: 100%; height: 100%;  object-fit: cover;" />
+<img src="https://i.ibb.co.com/C2MKCMy/Beige-Minimalist-Personal-Business-Linked-In-Banner.png" style="width: 100%; height: 100%;  object-fit: cover;" />
 </a>
 
 ## ❇️ Objective
